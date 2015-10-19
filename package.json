@@ -57,10 +57,10 @@
     "through2": "^2.0.0",
     "tildify": "^1.0.0",
     "webpack": "^1.12.0",
-    "webpack-config": "0.9.0"
+    "webpack-config": "mdreizin/webpack-config#v0.9.0"
   },
   "peerDependencies": {
     "webpack": "^1.12.0",
-    "webpack-config": "0.9.0"
+    "webpack-config": "mdreizin/webpack-config#v0.9.0"
   }
 }
